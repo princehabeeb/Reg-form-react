@@ -21,8 +21,8 @@ const Reg = () => {
         <option>Female</option>
     </select>
     <br />
-   <input type="Checkbox" />
-   I agree with all terms and conditions <br />
+   <input className='box' type="Checkbox" />
+      I agree with all terms and conditions <br />
     <button>Submit</button>
 
     </form>
